@@ -1,0 +1,11 @@
+1.	To determine the product and average of two given numbers. 
+2.	To determine the simple interest of a given amount of money at a given rate of interest for a given period in years. 
+3.	To determine wage of workers for certain hours of work at a given hourly rate.
+4.	To determine the stock value of a store of certain item on the basis of its unit cost and quantities held in the stock.  
+5.	To determine the area of a parallelogram 
+6.	To determine the area of the walls of a rectangular room and hence the cost of its painting on the basis of charge per square unit. 
+7.	To determine the perimeter of a circular plot 
+8.	To determine the area and perimeter of a square. 
+9.	To determine the miles on the basis of given kilometers 
+10.	To determine the compound interest of a given amount of money at a given rate of interest for a given period in years.
+11.	To determine the net salary of an employee when it is known that the employee is eligible to dearness allowance (DA) of 97% of the basic pay, House Rent Allowance (HRA) of 57% of the basic pay and medical allowance of Rs.150 . It is further known that 12% of the basic pay is deducted from the gross salary for the Employees’ Provident fund (EPF) and Rs. 200 is deducted from the gross pay as the professional tax.
