@@ -1,6 +1,6 @@
 // 2.	To determine the simple interest of a given amount of money at a given rate of interest for a given period in years. 
 
-// Formula to calculate simple interest = amount * rate * time
+// Formula to calculate simple interest = (amount * rate * time)/100
 
 import java.util.Scanner;
 
@@ -18,8 +18,8 @@ public class Q02_SimpleInterest {
         System.out.print("Enter time period in years: ");
         float time = sc.nextFloat();        
 
-        float simpleInterest = amt*rate*time;
-        System.out.println("Simple Interest: "+simpleInterest);
+        float simpleInterest = (amt*rate*time)/100;
+        System.out.println("Simple Interest: "+ simpleInterest);
 
         sc.close();
     }
