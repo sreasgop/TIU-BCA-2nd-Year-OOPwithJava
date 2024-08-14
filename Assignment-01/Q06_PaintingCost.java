@@ -21,5 +21,7 @@ public class Q06_PaintingCost {
 
         System.out.printf("Total Area of Wall: %.2f unit sq.\nTotal Cost to Paint: %.2f\n", wallArea, totalCost);
 
+        sc.close();
+
     }
 }
