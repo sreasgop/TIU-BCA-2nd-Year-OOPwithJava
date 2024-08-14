@@ -1,7 +1,7 @@
 # Java if-else Assignment:
 1. A shop will give discount of 15% if the cost of purchased quantity is more than 500.
 
-2. A company decided to give bonus of 5% to employee if his/her year of service is more than Ask user for their salary and year of service and print the net bonus amount. 
+2. A company decided to give bonus of 5% to employee if his/her year of service is more than 5 years. Ask user for their salary and year of service and print the net bonus amount. 
 
 3. A college has following rules for grading system:
     a. Below 30 - F
