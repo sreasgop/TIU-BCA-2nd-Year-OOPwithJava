@@ -42,6 +42,7 @@ public class Q03_Grade {
         Marks = Sc.nextInt();
 
         System.out.println("Your Grade is: "+ gradeCalculator.calc(Marks));
+        Sc.close();
 
     }
     

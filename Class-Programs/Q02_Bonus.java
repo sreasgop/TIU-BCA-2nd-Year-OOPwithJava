@@ -17,12 +17,13 @@ public class Q02_Bonus {
 
         Scanner Sc = new Scanner(System.in);
         int Salary,ServTime;
-        
+
         System.out.println("Enter Your Salary: ");
         Salary = Sc.nextInt();
         System.out.println("Enter Your Service Time in Company: ");
         ServTime = Sc.nextInt();
         System.out.println("Your Net Bonus is: "+bonusCalc.Bonus(Salary, ServTime));
+        Sc.close();
     }
     
 }
