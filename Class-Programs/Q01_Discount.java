@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Q1_Discount{
+public class Q01_Discount{
 
     public static float applyDiscount(float amtSpent){
         float discountAmt = 0.0f;
