@@ -12,7 +12,12 @@ public class Q04_absValue {
 
         System.out.println("Enter a Number: ");
         userInp = Sc.nextInt();
-
-        System.out.println("Absolute Value of "+ userInp + " is "+Math.abs(userInp));
+        
+        if(userInp >=0){
+            System.out.println("Absolute Value of "+ userInp + " is "+ userInp);
+        }
+        else{
+            System.out.println("Absulute Value of "+ userInp+" is "+ userInp*(-1));
+        }
     }
 }
